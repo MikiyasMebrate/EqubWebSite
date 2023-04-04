@@ -16,8 +16,8 @@ However, in this small project, I attempt to solve this problem by transforming 
 To develop this project, I mainly used HTML and JavaScript, and I used a framework called Bootstrap 5.
 
 - **Bootstrap 5:** is the most popular CSS Framework for developing responsive and mobile-first websites.
+![Screenshot 2023-04-04 173028.png](./Screenshot_2023-04-04_173028.png)
 
-![Screenshot 2023-04-04 173028.png]
 
 As we can see this is the design ([Yene Equb | Home Page (mikemebrate.github.io)](https://mikemebrate.github.io/EqubWebSite/index.html)) or you could use the link, there is a registration form to record new users data and form table about existing users data who is registered early and the last one is generate button to choice the random winner. I’ll show you step by step.
 
